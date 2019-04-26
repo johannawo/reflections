@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 You create a new repository for files and directories. You need to do it to keep track of commits and changes.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It's already "saved" there and you can commit it to the repository. It's some kind of state between.
+How can you use the staging area to make sure you have one commit per logical change? 
+Comparing the staging area and the commit 1 (last commit)
